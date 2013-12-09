@@ -1,6 +1,6 @@
 Sprint-1
 ========
-A sprint 1 java prototype application built by Team 9, Codings are Fun, program is coded with Java Language with functions to edit attendance, mark attendance, export grades and transcript. 
+A sprint 1 java prototype application built by Team 9;Codings are Fun, program is coded with Java Language with functions to edit attendance, mark attendance, export grades and transcript. 
 
 How to run?
 1.Download and extract all files 
